@@ -122,7 +122,7 @@ export default function HomePage() {
                 {/* Main Image */}
                 <div className="absolute inset-8 rounded-3xl overflow-hidden border-4 border-slate-700/50 shadow-2xl shadow-green-500/20 transform hover:rotate-3 transition-transform duration-500">
                   <Image
-                    src="/images/n1.jpeg"
+                    src="/images/n4.jpeg"
                     alt="Premium Seeds"
                     fill
                     className="object-cover"
